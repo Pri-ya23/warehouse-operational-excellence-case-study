@@ -4,12 +4,7 @@
 
 > **Case study submitted by Priya** as a candidate for the **Operations Intern (SCM)** role at **API Holdings**.
 
----
 
-> ### ⚠️ Disclaimer
-> This repository is a **candidate case study / assignment**. It is an analytical exercise with **proposed recommendations only**. I have not worked at API Holdings or PharmEasy, and nothing here has been implemented in a real warehouse. The operating metrics, the cost assumptions, and the projected savings are **case-study inputs and estimates** used to demonstrate structured problem-solving, not audited company data. The PharmEasy / API Holdings branding appears only because the case was framed around that business.
-
----
 
 ## 📑 Table of Contents
 
@@ -330,7 +325,7 @@ warehouse-operational-excellence-case-study/
 **Priya**
 Candidate for **Operations Intern (SCM)**, API Holdings
 
-This project was prepared as part of the application process to demonstrate analytical thinking, supply-chain fundamentals, and structured, metrics-driven problem solving.
+
 
 - 📧 Email: *priya.ug23@nsut.ac.in*
 - 💼 LinkedIn: *https://www.linkedin.com/in/priya-1a7502290?utm_source=share_via&utm_content=profile&utm_medium=member_android*
