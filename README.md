@@ -332,8 +332,8 @@ Candidate for **Operations Intern (SCM)**, API Holdings
 
 This project was prepared as part of the application process to demonstrate analytical thinking, supply-chain fundamentals, and structured, metrics-driven problem solving.
 
-- 📧 Email: *add your email here*
-- 💼 LinkedIn: *add your LinkedIn profile link here*
+- 📧 Email: *priya.ug23@nsut.ac.in*
+- 💼 LinkedIn: *https://www.linkedin.com/in/priya-1a7502290?utm_source=share_via&utm_content=profile&utm_medium=member_android*
 
 ---
 
